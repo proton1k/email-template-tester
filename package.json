@@ -1,0 +1,17 @@
+{
+  "name": "email-templates-testing",
+  "version": "1.0.0",
+  "description": "Select an HTML template from local folder to be sent to Mailtrap testing API",
+  "license": "ISC",
+  "author": "proton1k",
+  "type": "module",
+  "main": "sendEmail.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "inquirer": "^12.4.2",
+    "minimist": "^1.2.8"
+  }
+}

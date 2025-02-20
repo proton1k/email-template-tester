@@ -1,0 +1,23 @@
+# os folders/files
+.DS_Store
+._*
+
+# editors
+.idea
+
+# node.js folders/files
+node_modules
+npm-debug.log
+lerna-debug.log
+.env
+
+# project folders/files
+build
+coverage
+
+# Temporary files
+.tmp
+
+# Authentication tokens and secrets
+*.key
+.keys/*
